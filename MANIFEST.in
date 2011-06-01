@@ -1,2 +1,2 @@
-include search_strings.txt
+include minidetector/search_strings.txt
 include minidetector/tests/*.txt
